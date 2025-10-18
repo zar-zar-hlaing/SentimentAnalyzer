@@ -176,7 +176,8 @@ python3 sentiment-analysis.py en --file /path/to/test-input-sentiment.txt
 
 ## References
 
-- [HuggingFace Transformers](https://huggingface.co/transformers/)  
+- [HuggingFace Transformers](https://huggingface.co/transformers/)
+- [HuggingFace Model Hub](https://huggingface.co/models) 
 - [PyTorch](https://pytorch.org/)  
 - [Polyglot NLP](https://polyglot.readthedocs.io/en/latest/)  
 
